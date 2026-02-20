@@ -1,0 +1,17 @@
+{
+  "clientId": "c43732b3-6c38-451d-8d8c-0034c4a93b60",
+  "featureId": "email-marketing",
+  "featureName": "Email Marketing",
+  "inputs": {
+    "purposeOffer": "To announce a special discount code being offered for the Valentine's Day. ",
+    "emailType": "promotional",
+    "primaryCta": "Avail Offer",
+    "tone": "urgent",
+    "productPageUrl": "NA",
+    "deadline": "Offer ends on 14th Feb",
+    "additionalContext": ""
+  },
+  "output": "**Subject line:** Love is in the Air: 20% Off Just for You!\n\n**Preview text:** Don’t miss your chance to celebrate with a special offer.\n\n---\n\nValentine's Day is just around the corner, and finding the perfect gift can feel overwhelming. You want to make your loved one feel treasured, yet the clock is ticking.\n\nThis year, we’re here to help! Enjoy an exclusive **20% discount** with code **LOVE20** on your next purchase. Whether it's a heartfelt gift or a little something special for yourself, now's the perfect time to show love.\n\nBut hurry—this sweet deal ends on **February 14th**. Don’t wait until the last minute; make someone’s day unforgettable today!\n\n[**Avail Offer**](#)\n\nTime’s flying, and so is this offer! Make your Valentine's Day truly special.\n\nBest wishes,  \nTUAQ Team\n\nP.S. Remember, the clock is ticking! Use **LOVE20** before it’s too late, and make this Valentine's Day one to remember.",
+  "id": "29b42b89-7bba-4d9e-a551-458c3ee063f8",
+  "createdAt": "2026-02-20T06:26:18.429Z"
+}
